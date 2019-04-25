@@ -1,5 +1,8 @@
 _repo: Books-Relating-to-Applied-Science-published-by-E-F-N-Spon-1887_59308
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 59308-h/images/i_cover.jpg
 creator:
   authors:
   - agent_name: Spon, F. N.
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '50385'
     url: http://www.gutenberg.org/2009/agents/50385
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59308#Books-Relating-to-Applied-Science-published-by-E-F-N-Spon-1887
 gutenberg_issued: '2019-04-18'
 gutenberg_type: Text
 identifiers:
